@@ -1,8 +1,4 @@
----
-languages: ruby
-tags: collect, iteration, regex, normalization, todo
-resources: 3
----
+
 
 # Format Numbers
 
